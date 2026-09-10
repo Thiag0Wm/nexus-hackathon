@@ -1,0 +1,1 @@
+{"name":"nexus-demo","version":"1.0.0","private":true,"description":"Protótipo demonstrativo NEXUS, sem dependências externas","scripts":{"start":"node server.cjs","check":"node --check dist/app.js && node --test tests/state.test.cjs"}}
