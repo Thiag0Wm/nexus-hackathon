@@ -1,7 +1,9 @@
-# NEXUS — Protótipo Hackathon
+# WedTech — Protótipo Hackathon
 
-Central Inteligente de E-commerce e Marketplaces.
+Central Inteligente de E-commerce e Marketplaces da WedTech.
 **Um produto. Todos os canais. Uma única inteligência.**
+
+Identidade visual baseada em azul-marinho, azul tecnológico, grafite e superfícies claras. Slogan institucional: **Tecnologia e conexão para o futuro.**
 
 ## Abrir
 
@@ -13,10 +15,10 @@ Alternativamente, com Node.js instalado, execute `npm start` nesta pasta e abra 
 
 1. **Dashboard (30 s):** apresente indicadores, gráfico e recomendações do copiloto.
 2. **Produtos (30 s):** mostre o catálogo único e abra Nike Revolution 8.
-3. **NEXUS One (90 s):** clique em “Preencher exemplo”, altere os dados se desejar e prepare os anúncios. Compare as versões por canal, corrija os avisos com NEXUS AI e publique.
+3. **WedTech One (90 s):** clique em “Preencher exemplo”, altere os dados se desejar e prepare os anúncios. Compare as versões por canal, corrija os avisos com WedTech AI e publique.
 4. **Estoque (40 s):** abra Produtos → Nike Revolution 8 → Simular venda. Mostre 18 → 17 e os canais sincronizados.
 5. **Marketplaces (20 s):** simule a conexão do Magalu.
-6. **NEXUS AI (30 s):** clique em “Resuma minha operação.” O resumo incorpora a venda e a publicação.
+6. **WedTech AI (30 s):** clique em “Resuma minha operação.” O resumo incorpora a venda e a publicação.
 
 Use **Reiniciar demonstração** no rodapé da barra lateral antes da próxima apresentação.
 

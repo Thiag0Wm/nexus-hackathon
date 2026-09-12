@@ -1,0 +1,74 @@
+:root {
+  --navy: #081a2e;
+  --navy-soft: #102a4a;
+  --blue: #173f73;
+  --accent: #2f6fb2;
+  --accent-light: #75a9e6;
+}
+
+.sidebar {
+  background:
+    radial-gradient(circle at 20% 6%, rgba(47, 111, 178, .24), transparent 28%),
+    linear-gradient(165deg, #102a4a 0%, #081a2e 58%, #061321 100%);
+}
+
+.brand {
+  letter-spacing: .2px;
+}
+
+.wordmark {
+  color: #eef5ff;
+  font-weight: 400;
+}
+
+.wordmark b {
+  font-weight: 800;
+}
+
+.mark {
+  color: #fff;
+  border: 0;
+  background: linear-gradient(145deg, #3476bd, #102f58);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, .28), inset 0 0 0 1px rgba(255, 255, 255, .14);
+  transform: none;
+  letter-spacing: 0;
+  padding: 0;
+}
+
+.brand-sub {
+  color: #9eb2ca;
+  font-size: 11px;
+  letter-spacing: .75px;
+  line-height: 1.45;
+  text-transform: uppercase;
+}
+
+.nav a.active {
+  background: linear-gradient(90deg, rgba(47, 111, 178, .34), rgba(47, 111, 178, .12));
+  color: #b7d7fb;
+  box-shadow: inset 3px 0 0 #4f82c0;
+}
+
+.btn.primary {
+  background: linear-gradient(135deg, #173f73, #2f6fb2);
+  border-color: #173f73;
+  box-shadow: 0 5px 14px rgba(23, 63, 115, .17);
+}
+
+.card {
+  box-shadow: 0 8px 28px rgba(8, 26, 46, .035);
+}
+
+.ai-strip,
+.success-banner {
+  background: linear-gradient(100deg, #edf4fc, #f8fbff);
+}
+
+.one-story {
+  background: linear-gradient(145deg, #102a4a, #081a2e);
+}
+
+.graph circle,
+.graph polyline {
+  color: var(--accent);
+}
